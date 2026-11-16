@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Kauã Moreira — Full Stack Developer</title>
+  <defs>
+    <linearGradient id="river" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e3b341" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#e3b341" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#e3b341" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <path d="M620 214 C 720 168, 800 250, 900 204 S 1080 150, 1200 186" fill="none" stroke="url(#river)" stroke-width="2"/>
+  <path d="M660 240 C 760 200, 840 272, 940 230 S 1100 184, 1200 212" fill="none" stroke="url(#river)" stroke-width="1" opacity="0.6"/>
+  <text x="72" y="132" fill="#f0f6fc" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="600" letter-spacing="-1.5">Kauã Moreira</text>
+  <rect x="74" y="162" width="56" height="3" rx="1.5" fill="#e3b341"/>
+  <text x="72" y="214" fill="#9198a1" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="400">Full Stack Developer</text>
+</svg>
